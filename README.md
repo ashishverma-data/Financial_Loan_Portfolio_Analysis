@@ -100,7 +100,7 @@ Performed:
 - Geographic and purpose analysis
 - Loss-making purpose ranking
 
-**SQL concepts:** Aggregations, `CASE`, `GROUP BY`, CTEs, `ROW_NUMBER()`, window functions, conditional analysis and indexing.
+**SQL concepts:** Aggregations, `CASE`, `GROUP BY`, CTEs,  window functions(`ROW_NUMBER()`), conditional analysis and indexing.
 
 ---
 
